@@ -1,7 +1,7 @@
 # MovieRecommenderSystem
 Built a movie recommender system that suggests movies on the basis of
 
- 1. Most votes recieved 
+ 1. Most votes received 
  
  2. Popularity
 
